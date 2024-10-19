@@ -1,51 +1,51 @@
 # Melody
 
-Melody is a simple and effective music player created with React, designed to provide a hassle-free listening experience. This app allows you to play your music and follow along with the lyrics while listening.
+Melody é um player de música simples e eficaz, criado com React, projetado para proporcionar uma experiência de audição sem complicações. Este aplicativo permite que você reproduza smúsicas e acompanhe as letras enquanto ouve.
 
-![Melody](./public/assets/img/app.png)
+![Melodia](./public/assets/img/app.png)
 
-## Features
+## Funcionalidades
 
-- Easily and quickly play music.
-- Follow the lyrics of the songs as they play.
-- Intuitive and user-friendly interface.
+- Reproduza músicas de forma fácil e rápida.
+- Acompanhe as letras das músicas enquanto elas tocam.
+- Interface de usuário intuitiva e amigável.
 
-## How to Use
+## Como Usar
 
-1. Clone this repository:
+1. Clone este repositório:
 
    ```
    git clone https://github.com/williamhumbwavali/melody.git
    ```
 
-2. Navigate to the project directory:
+2. Navegue até o diretório do projeto:
 
    ```
-   cd melodia
+   cd melody
    ```
 
-3. Install the dependencies:
+3. Instale as dependências:
 
    ```
    npm install
    ```
 
-4. Start the development server:
+4. Inicie o servidor de desenvolvimento:
 
    ```
    npm start
    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your web browser.
+5. Abra [http://localhost:3000](http://localhost:3000) em seu navegador da web.
 
-## Project Link
+## Link do Projeto
 
-You can access the published project at: [melodyonline.vercel.app](https://melodyonline.vercel.app)
+Você pode acessar o projeto publicado em: [melodiaonline.vercel.app](https://melodyonline.vercel.app)
 
-## Contributing
+## Contribuindo
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## License
+## Licença
 
-This project is licensed under the [MIT License](LICENSE).
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
