@@ -83,7 +83,7 @@ function Player({ playing, setPlaying, isPlaying, setIsPlaying }: Props) {
     function second(value: number): number {
         return parseInt(String(value % 60));
     }
-    function Volume(e: ChangeEvent<HTMLInputElement>, value: number): void {
+    function Volume(value: number): void {
         if (audio.current) {
             audio.current.volume = value / 100;
         }
