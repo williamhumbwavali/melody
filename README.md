@@ -40,7 +40,7 @@ Melody é um player de música simples e eficaz, criado com React, projetado par
 
 ## Link do Projeto
 
-Você pode acessar o projeto publicado em: [melodiaonline.vercel.app](https://melodyonline.vercel.app)
+Você pode acessar o projeto publicado em: [melodyonline.vercel.app](https://melodyonline.vercel.app)
 
 ## Contribuindo
 
