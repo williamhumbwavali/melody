@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './App.css';
 import './icons/uicons-regular-rounded/css/uicons-regular-rounded.css';
 import './icons/uicons-solid-rounded/css/uicons-solid-rounded.css';
