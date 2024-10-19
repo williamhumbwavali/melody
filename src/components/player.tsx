@@ -171,7 +171,7 @@ function Player({ playing, setPlaying, isPlaying, setIsPlaying }: Props) {
                             {end.current}
                         </div>
                     </div>
-                    <InputRange value={songline} setValue={setSongLine} max={Number(audio.current?.duration ?? 100)} onInput={(e: ChangeEvent<HTMLInputElement>, value: number, setValue: (value: number) => void) => {
+                    <InputRange value={songline} setValue={setSongLine} max={Number(audio.current?.duration ?? 100)} onInput={(e: ChangeEvent<HTMLInputElement>) => {
                         const Audio = audio.current;
                         if (Audio) {
                             Audio.currentTime = Number(e.target.value);
